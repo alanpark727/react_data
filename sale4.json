@@ -1,0 +1,41 @@
+[
+    {
+        "id": 12,
+        "title": "[SALE] 2022 T1 Official Pants",
+        "imgUrl": "/img/sale/sale13.png",
+        "code": "P00000JY",
+        "price": "89000",
+        "sale_price": "44500",
+        "category": "sale"
+    },
+
+    {
+        "id": 13,
+        "title": "[SALE] T1 Custom Player Official Jersey 2021",
+        "imgUrl": "/img/sale/sale14.png",
+        "code": "P00000JX",
+        "price": "139000",
+        "sale_price": "41700",
+        "category": "sale"
+    },
+
+    {
+        "id": 14,
+        "title": "[SALE] T1 X Nike Tech Fleece Pants",
+        "imgUrl": "/img/sale/sale15.jpg",
+        "code": "P00000JT",
+        "price": "129000",
+        "sale_price": "38700",
+        "category": "sale"
+    },
+
+    {
+        "id": 15,
+        "title": "[SALE] 2022 T1 Slides",
+        "imgUrl": "/img/sale/sale16.png",
+        "code": "P00000KE",
+        "price": "35000",
+        "sale_price": "19250",
+        "category": "sale"
+    }
+]

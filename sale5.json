@@ -1,0 +1,45 @@
+[
+    {
+        "id": 16,
+        "title": "[SALE] Together As 1 T-Shirt",
+        "imgUrl": "/img/sale/sale17.jpg",
+        "optionUrl1": "/img/sale/sale17_2.png",
+        "code": "P00000JZ",
+        "price": "36000",
+        "sale_price": "25200",
+        "category": "sale"
+    },
+
+    {
+        "id": 17,
+        "title": "[SALE] Back Together As 1 T-Shirt",
+        "imgUrl": "/img/sale/sale18.jpg",
+        "optionUrl1": "/img/sale/sale18_2.jpg",
+        "optionUrl2": "/img/sale/sale18_3.jpg",
+        "optionUrl3": "/img/sale/sale18_4.jpg",
+        "code": "P00000KA",
+        "price": "36000",
+        "sale_price": "25200",
+        "category": "sale"
+    },
+
+    {
+        "id": 18,
+        "title": "[SALE] T1 iPhone 11 Case - Red",
+        "imgUrl": "/img/sale/sale19.jpg",
+        "code": "P00000KF",
+        "price": "24000",
+        "sale_price": "7200",
+        "category": "sale"
+    },
+
+    {
+        "id": 19,
+        "title": "[SALE] 2022 T1 Slides",
+        "imgUrl": "/img/sale/sale20.jpg",
+        "code": "P00000KG",
+        "price": "24000",
+        "sale_price": "7200",
+        "category": "sale"
+    }
+]
