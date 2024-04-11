@@ -4,8 +4,8 @@
         "title": "[SALE] T1 iPhone 11 Pro Case - Faker Demon King Edition",
         "imgUrl": "/img/sale/sale09.jpg",
         "code": "P00000NY",
-        "price": "24000",
-        "sale_price": "7200",
+        "price": "24,000",
+        "sale_price": "7,200",
         "category": "sale"
     },
 
@@ -14,8 +14,8 @@
         "title": "[SALE] T1 Galaxy Note 20 Ultra Case - Faker Demon King Edition",
         "imgUrl": "/img/sale/sale10.jpg",
         "code": "P00000NX",
-        "price": "24000",
-        "sale_price": "7200",
+        "price": "24,000",
+        "sale_price": "7,200",
         "category": "sale"
     },
 
@@ -24,8 +24,8 @@
         "title": "[SALE] T1 Galaxy Note 20 Case - Faker Demon King Edition",
         "imgUrl": "/img/sale/sale11.jpg",
         "code": "P00000KJ",
-        "price": "24000",
-        "sale_price": "7200",
+        "price": "24,000",
+        "sale_price": "7,200",
         "category": "sale"
     },
 
@@ -36,8 +36,8 @@
         "optionUrl1": "/img/sale/sale12_2.jpg",
         "optionUrl2": "/img/sale/sale12_3.jpg",
         "code": "P00000KD",
-        "price": "15000",
-        "sale_price": "7500",
+        "price": "15,000",
+        "sale_price": "7,500",
         "category": "sale"
     }
 ]
