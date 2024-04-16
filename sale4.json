@@ -5,7 +5,7 @@
         "imgUrl": "/img/sale/sale13.png",
         "code": "P00000JY",
         "price": 89000,
-        "sale_price": "44,500",
+        "sale_price": 44500,
         "category": "sale"
     },
 
@@ -15,7 +15,7 @@
         "imgUrl": "/img/sale/sale14.png",
         "code": "P00000JX",
         "price": 139000,
-        "sale_price": "41,700",
+        "sale_price": 41700,
         "category": "sale"
     },
 
@@ -25,7 +25,7 @@
         "imgUrl": "/img/sale/sale15.jpg",
         "code": "P00000JT",
         "price": 129000,
-        "sale_price": "38,700",
+        "sale_price": 38700,
         "category": "sale"
     },
 
@@ -35,7 +35,7 @@
         "imgUrl": "/img/sale/sale16.png",
         "code": "P00000KE",
         "price": 35000,
-        "sale_price": "19,250",
+        "sale_price": 19250,
         "category": "sale"
     }
 ]
