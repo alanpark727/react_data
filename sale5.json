@@ -5,8 +5,8 @@
         "imgUrl": "/img/sale/sale17.jpg",
         "optionUrl1": "/img/sale/sale17_2.png",
         "code": "P00000JZ",
-        "price": "36,000",
-        "sale_price": "25,200",
+        "price": 36000,
+        "sale_price": 25200,
         "category": "sale"
     },
 
@@ -18,8 +18,8 @@
         "optionUrl2": "/img/sale/sale18_3.jpg",
         "optionUrl3": "/img/sale/sale18_4.jpg",
         "code": "P00000KA",
-        "price": "36,000",
-        "sale_price": "25,200",
+        "price": 36000,
+        "sale_price": 25200,
         "category": "sale"
     },
 
@@ -28,8 +28,8 @@
         "title": "[SALE] T1 iPhone 11 Case - Red",
         "imgUrl": "/img/sale/sale19.jpg",
         "code": "P00000KF",
-        "price": "24,000",
-        "sale_price": "7,200",
+        "price": 24000,
+        "sale_price": 7200,
         "category": "sale"
     },
 
@@ -38,8 +38,8 @@
         "title": "[SALE] 2022 T1 Slides",
         "imgUrl": "/img/sale/sale20.jpg",
         "code": "P00000KG",
-        "price": "24,000",
-        "sale_price": "7,200",
+        "price": 24000,
+        "sale_price": 7200,
         "category": "sale"
     }
 ]
