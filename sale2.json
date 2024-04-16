@@ -6,7 +6,7 @@
         "optionUrl1": "/img/sale/sale05_2.jpg",
         "code": "P00000KC",
         "price": 46000,
-        "sale_price": "32,200",
+        "sale_price": 32200,
         "category": "sale"
     },
 
@@ -16,7 +16,7 @@
         "imgUrl": "/img/sale/sale06.jpg",
         "code": "P00000KL",
         "price": 29000,
-        "sale_price": "8,700",
+        "sale_price": 8700,
         "category": "sale"
     },
 
@@ -26,7 +26,7 @@
         "imgUrl": "/img/sale/sale07.jpg",
         "code": "P00000KI",
         "price": 29000,
-        "sale_price": "8,700",
+        "sale_price": 8700,
         "category": "sale"
     },
 
@@ -36,7 +36,7 @@
         "imgUrl": "/img/sale/sale08.jpg",
         "code": "P00000OA",
         "price": 24000,
-        "sale_price": "7,200",
+        "sale_price": 7200,
         "category": "sale"
     }
 ]
